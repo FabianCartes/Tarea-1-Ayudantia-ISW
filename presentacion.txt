@@ -2,3 +2,4 @@ Nombre: Fabian Cartes
 Edad: 21 años
 Carrera: Ingenieria Civil en Informatica
 Perros: 2 salchichas
+Hermanos: 2
