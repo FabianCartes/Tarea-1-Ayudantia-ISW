@@ -1,0 +1,3 @@
+Nombre: Fabian Cartes
+Edad: 21 años
+Carrera: Ingenieria Civil en Informatica
